@@ -41,15 +41,6 @@ A tutoring platform Android application built in an Agile/Scrum team.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vencentgreat-cmyk&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vencentgreat-cmyk&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuxin-yang-9020513a2)
