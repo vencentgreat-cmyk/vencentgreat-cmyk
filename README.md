@@ -4,7 +4,7 @@
 
 I build software and data tools that solve practical problems — from static analysis scanners and Android apps to market data analysis and order matching systems.
 
-Currently looking for a **Fall 2026 Co-op** in software development, QA / test automation, or data engineering.
+Currently working at EFNS！
 
 ---
 
